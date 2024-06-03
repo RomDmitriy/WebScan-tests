@@ -1,0 +1,5 @@
+# Some comment
+aiogram==3.4.1
+redis==4.4.0
+python_dotenv==1.0.1
+gradio_client==0.15.1
